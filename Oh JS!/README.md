@@ -10,7 +10,7 @@ This is the most secure login form on earth.
 
 We use SECURITY BY OBSCURITY in order to prevent hackers from finding our flags.
 
-I dare you to login : http://localhost:17002
+I dare you to login : 
 
 ## Writeup
 
