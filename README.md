@@ -1,4 +1,4 @@
-# DeepCtf-Web-Writeups
+# DeepCtf Web Writeups
 ## Author: [Najeh Halawani](https://instagram.com/najeh_halawani)
 This is the writeups for web challenges of https://deepctf.tech
 
