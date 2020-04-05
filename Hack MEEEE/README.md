@@ -138,7 +138,7 @@ message=`cat flag.txt`&method=instance_eval
 
 ```html
 <!-- ... -->
-  <textarea>CFI{send_is_a_very_dangerous_method}</textarea>
+  <textarea>d33p{send_is_a_very_dangerous_method}</textarea>
 <!-- ... -->  
 ```  
 
